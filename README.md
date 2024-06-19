@@ -147,7 +147,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Usman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Johnny463&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Usman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UsmanMalik1885&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UsmanMalik1885&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="UsmanMalik1885" height="192px"/>
